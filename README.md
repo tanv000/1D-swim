@@ -5,16 +5,16 @@ formalization of the concept.
 1D-Swin is an efficient transformer for capturing hierarchical 1-dimentional long range sequence. 1d-works with data that’s arranged in line, swin-helps the model to understand and capture the relationships and interactions between distant parts of DNA sequences,that's how it got the name 1D-Swin.
 It is efficient as swin Transformer block uses a shifted window approach, which reduces the computational complexity of the Transformer.
 
-![Architecture of 1D-Swin Transformer]<img width="1444" alt="swin" src="https://github.com/user-attachments/assets/65d88fe0-80b4-45a3-b2e0-706bea81bb36" />
+![Architecture of 1D-Swin Transformer](https://github.com/user-attachments/assets/65d88fe0-80b4-45a3-b2e0-706bea81bb36)
 
 
 ### Simple explaination for working of 1D-Swin transformer
 The 1D Swin Transformer chomps through long sequences by slicing them into overlapping windows, where it closely examines each piece (attention!), then gradually connects them across the whole sequence layer by layer. This efficient, multi-scale approach lets it capture both local details and big-picture patterns, making it a champion in tasks like text analysis, DNA study, and even music generation!
 ## Working of 1D-Swin Transformer
-![Working of 1D-Swin Transformer]![image](https://github.com/user-attachments/assets/18c3a3ec-d395-42e7-8ad2-efd00a993824)
+![Working of 1D-Swin Transformer](https://github.com/user-attachments/assets/18c3a3ec-d395-42e7-8ad2-efd00a993824)
 
 ## Dissecting the 1D-Swin Transformer
-![Dissecting the 1D-Swin Transformer Key Equations Explained]![image](https://github.com/user-attachments/assets/bbf6e1ed-0f90-46c1-ba4e-8fda7de5603e)
+![Dissecting the 1D-Swin Transformer Key Equations Explained](https://github.com/user-attachments/assets/bbf6e1ed-0f90-46c1-ba4e-8fda7de5603e)
 
 
 # Install
