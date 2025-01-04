@@ -1,7 +1,8 @@
 # 1D-Swin
 The implementation of 1d-swin, an efficient transformer for capturing hierarchical 1-dimentional long range sequence. It is used for capturing sequences such as DNA, text, and audio.
 
-![1d-swin](./docs/swin.png)
+<img width="1444" alt="swin" src="https://github.com/user-attachments/assets/2197a7c7-dd67-4368-b1e0-1d01767c6d44" />
+
 
 # Install
 ## Install via pip
